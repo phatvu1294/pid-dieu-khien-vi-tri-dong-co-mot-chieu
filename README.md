@@ -4,6 +4,8 @@ PID điều khiển vị trí động cơ một chiều trên Arduino và C# Win
 ### Giới thiệu
 Điều khiển vị trí động cơ một chiều với thuật toán PID trên Arduino và C# Winform
 
+![PID điều khiển vị trí động cơ một chiều](images/imgae-01.png)
+
 ### Chuẩn bị
 - Động cơ điện một chiều
 - Encoder 400 xung
