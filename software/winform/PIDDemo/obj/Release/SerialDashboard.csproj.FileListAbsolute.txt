@@ -1,0 +1,50 @@
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\bin\Release\SerialDashboard.exe
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\bin\Release\SerialDashboard.pdb
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.exe
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csprojResolveAssemblyReference.cache
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\ESP8266\Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\bin\Release\SerialDashboard.pdb

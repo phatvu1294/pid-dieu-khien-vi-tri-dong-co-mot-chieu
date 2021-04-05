@@ -1,0 +1,41 @@
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.csprojResolveAssemblyReference.cache
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csprojResolveAssemblyReference.cache
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\[ESP] Bo Dieu Khien ESP8266 C# Winform\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.pdb
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\obj\Debug\SerialDashboard.exe
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\obj\Debug\SerialDashboard.pdb
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\bin\Debug\SerialDashboard.exe
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\bin\Debug\SerialDashboard.pdb
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+D:\OneDrive\Workspaces\MCA Temporary\PID_Controller_Best\winform\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\OneDrive\Workspaces\MCA Projects\30. PID_Controller_Best_ver1.0_31072020\winform\SerialDashboard\obj\Debug\SerialDashboard.pdb
